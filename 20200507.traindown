@@ -1,0 +1,41 @@
+@ 2020-05-07
+
+# Plan: Coan Press
+# Week: 3
+# Unit: lbs
+
+Press:
+  45 20r
+  95 10r
+  135 5r
+  165 3r
+  182 3r
+    # Basis: 225
+    # Percent: 81
+    # Strict: true
+  125 5r 8s
+    # Basis: 225
+    # Percent: 55
+    # Rest seconds: 90
+
+Close grip bench:
+  225 10r 2s
+  225 8r
+    * Fatigued
+  225 9r
+    * Need to build up endurance again
+
++ Seal Row: 50 10r 4s
+  * DB weight per hand
+  * So weak in this movement
+
+Dips: 10r 4s
+  # Unit: bodyweight
+
++ Hammer Curl: 45 10r 4s
+
+Decline Ab Twist: 14 10r 2s
+  * Dynamax ball
+  * One rep was up, left, right, down
+
++ Tricep V down: 45 20r 2s
