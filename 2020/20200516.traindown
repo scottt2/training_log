@@ -1,0 +1,31 @@
+@ 2020-05-16
+
+# unit: lbs
+# recorded: 2020-05-24
+
+Two hand tap: 115 10r
+  # unit: inches
+
+Up down up down: 21 10r
+  # unit: inches
+
+Tire flip: 700 5r 3s
+
+One arm snatch:
+  * Reps split between each hand
+  95 10r
+  115 10r
+  125 6r 2s
+
+Log press: 135 10r 5s
+  # strict: true
+
++ Parallel pulldown: 135 10r 5s
+
+Farmers walk: 157 2s
+  # distance: 210
+  # style: figure 8s
+  # turns: 6
+
+Neck harness: 20 20r 2s
++ Reverse hyper: 110 20r 2s
