@@ -1,0 +1,30 @@
+@ 2020-06-02
+
+# Recorded: 2020-06-06
+# Unit: lbs
+
+Box jump: 21 3r 5s
+  # type: vertical
+  # unit: inches
+
+Deadlift: 315 10r 4s
+  * Grip sequence was r, l, r, l
+  # rest seconds: 90
+  # type: floating
+
+Leg press: 340 12r 3s
++ Leg press calf raise: 340 12r 3s
++ Dorsi flexion: 20 12r 3s
+
+Good girls: 85 12r 3s
++ Upright row
+  # type: smith
+  60 12r 3s
+
+Glute ham: 12r 3s
+  # bottom hole: 4
+  # unit: bodyweight
++ One arm pulldown 67.5 12r 3s
+
+Reverse hyper: 150 12r 3s
++ Neck harness: 20 12r 3s
