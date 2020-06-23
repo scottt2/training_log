@@ -1,0 +1,46 @@
+@ 2020-06-23
+# unit: lbs
+
+single leg box jump:
+  18 3r 5s
+    # unit: inches
+    * Reps per leg
+
+deadlift:
+  # type: floating
+  355 10r 3s
+    * No rush on these. will add time next time
+
+leg press:
+  360 12r 3s
+
++ leg press calf:
+  360 12r 3s
+
++ dorsi flexion:
+  25 12r 3s
+
+good girls:
+  70 15r 3s
+    * went for more reps to really flush blood
+
++ smith up row:
+  70 15r 3s
+
+glute ham:
+  1 12r 3s
+    # unit: bodyweight
+
++ supine pulldown:
+  120 12r 3s
+
+reverse hyper:
+  150 20r
+  2
+
++ side bend:
+  35 20r 2s
+    * per side
+
+neck complex:
+  1 50r

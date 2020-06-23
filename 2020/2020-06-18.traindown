@@ -1,0 +1,42 @@
+@ 2020-06-18
+# unit: lbs
+
+bench:
+  # pause: true
+  135 12r
+  185 6r
+  220 10r 4s
+    * Feeling good despite left shoulder
+
+dips:
+  24 12r 3s
+
++ reverse pec deck:
+  53 12r 3s
+
+smith french:
+  70 12r 3s
+
++ williams raise:
+  35 12r 3s
+
+pullover:
+  97 12r 3s
+    # grip: wide
+
++ shoulder horn:
+  15 12r 3s
+
+rope tri down:
+  53 21r 2s
+
++ preacher:
+  55 21r 2s
+    # grip: wide
+
+ab wheel:
+  1 15r 3s
+    # unit: bodyweight
+
++ neck lift:
+  20 15r 3s

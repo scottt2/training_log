@@ -1,0 +1,38 @@
+@ 2020-06-09
+# unit: lbs
+
+Vertical box jump:
+  23 3r 6s
+    # unit: inches
+
+Deadlift:
+  # Type: floating
+  # Rest seconds: 90
+  335 10r 3s
+
+Leg press:
+  340 12r 3s
+
++ Leg press calf:
+  340 12r 3s
+
++ Dorsi flexion:
+  20 12r 3s
+
+good girl:
+  85 12r 3s
+
++ smith up row:
+  65 12r 3s
+
+glute ham:
+  1 12r 3s
+
++ One arm pulldown:
+  67 12r 3s
+
+reverse hyper:
+  150 12r 3s
+
++ Necklift:
+  20 12r 3s

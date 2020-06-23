@@ -1,0 +1,45 @@
+@ 2020-06-11
+# unit: lbs
+
+bench:
+  # pause: true
+  135 15r 2s
+
+  185 10r
+
+  215 10r 4s
+
+dips:
+  18 12r 3s
+
++ reverse pec deck:
+  45 12r 3s
+
+smith french:
+  85 12r 2s
+    * Too much ego
+
+  70 12r 2s
+
++ pec deck:
+  85 12r 3s
+
+pullover:
+  # grip: narrow
+  92 12r 3s
+
++ shoulder horn:
+  15 12r 3s
+
+v tri down:
+  75 12r 3s
+
++ reverse curl:
+  92 12r 3s
+
+ab mat:
+  1 20r 2s
+    # unit: bodyweight
+
++ necklift
+  15 20r 2s

@@ -1,0 +1,34 @@
+@ 2020-06-13
+# unit: lbs
+* Back and hips are tight af
+* Going to go a bit easier
+
+box jump:
+  # unit: inches
+  40 3r 3s
+
+tire drag:
+  173 3s
+    # distance: 200 ft
+    * pull backward uphill half
+    * pull forward downhill half
+
+pulldown:
+  150 10r
+    # grip: wide
+
++ smith shrug:
+  150 10r
+
+reverse hyper:
+  130 25r 2s
+
++ ab down:
+  45 25r 2s
+
+side bend:
+  44 10r 4s
+    * per side
+
+neck harness:
+  20 20r 2s

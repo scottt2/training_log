@@ -1,0 +1,40 @@
+@ 2020-06-16
+# unit: lbs
+
+vertical box jump:
+  23 3r 6s
+
+deadlift:
+  # type: floating
+  # rest seconds: 90
+  335 10r 4s
+
+leg press:
+  340 12r 3s
+
++ leg press calf:
+  340 12r 3s
+
++ dorsi flexion:
+  20 12r 3s
+
+good girl:
+  70 12r 3s
+    * lighter than last time to focus on movement
+
++ smith up row:
+  70 12r 3s
+    * focus as to not worsen the migraine
+
+glute ham:
+  1 12r 3s
+    # unit: bodyweight
+
++ parallel pulldown:
+  135 12r 3s
+
+reverse hyper:
+  150 20r 2s
+
++ russian twist:
+  45 20r 2s

@@ -1,0 +1,42 @@
+@ 2020-06-21
+# unit: lbs
+* pretty beat up. swotched to higher reps
+
+bench:
+  # pause: true
+  135 10r
+  185 5r
+  225 10r 3s
+    # rir: 5
+
+dips:
+  24 12r
+  0 20r 2s
+
++ reverse pec deck:
+  60 12r
+  45 20r 2s
+
+pec deck:
+  60 20r 2s
+
++ smtih french:
+  50 20r 2s
+
+pullover:
+  67 20r 2s
+
++ reverse curl:
+  67 20r 2s
+
+v tri down:
+  45 20r 2s
+
++ shoulder horn:
+  15 20r 2s
+
+neck lift:
+  15 20r 2s
+
++ ab down:
+  45 20r 2s
