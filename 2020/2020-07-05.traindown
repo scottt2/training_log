@@ -1,0 +1,32 @@
+@ 2020-07-05
+# unit: lbs
+
+bench:
+  135 20r
+  185 10r
+  230 10r 3s
+
+dips:
+  35 12r 3s
+
++ reverse pec deck:
+  65 12r 3s
+
+jefferson raise:
+  35 12r 3s
+
++ smith french:
+  80 12r 3s
+
+pullover:
+  107 12r 3s
+    # grip: narrow
+
++ shoulder horn:
+  20 12r 3s
+
+preacher:
+  55 21r 2s
+
++ tri down:
+  60 21r 2s

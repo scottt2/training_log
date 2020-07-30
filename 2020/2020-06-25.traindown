@@ -1,0 +1,35 @@
+@ 2020-06-25
+# unit: lbs
+
+bench:
+  # pause: true
+  135 10r 2s
+  185 5r
+  225 10r 4s
+    # rir: 6
+
+dips:
+  24 12r 3s
+
++ reverse pec deck:
+  53 12r 3s
+
+williams raise:
+  35 12r 3s
+
++ smith french:
+  70 12r 3s
+    * brought in grip and felt great
+
+pullover:
+  107 12r 3s
+    # grip: wide
+
++ reverse curl:
+  107 12r 3s
+
+tri down:
+  60 20r 2s
+
++ neck lift:
+  20 20r 2s

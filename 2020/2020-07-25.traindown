@@ -1,0 +1,31 @@
+@ 2020-07-25
+# unit: lbs
+
+crash pad broad jump:
+  # unit: inches
+  92 6s
+    * power started to diminish
+
+lateral hurdles:
+  # unit: inches
+  24 4r 5s
+    * two left, two right back to back
+
+sandbag carry:
+  # distance: 80 feet
+  # turns: 1
+  # type: slow and steady
+  200 3s
+
+dumbbell row:
+  80 10r 5s
+    * per hand
+
+smith shrug:
+  170 10r 5s
+
+reverse hyper:
+  180 10r 5s
+
+neck harness:
+  25 10r 5s

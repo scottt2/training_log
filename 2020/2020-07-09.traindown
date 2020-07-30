@@ -1,0 +1,42 @@
+@ 2020-07-09
+# unit: lbs
+
+bench:
+  135 20r
+  185 10r
+    * stopped here due to left ac joint
+
+dips:
+  1 10r
+  35 10r
+  53 10r 5s
+  1 25r 2s
+
+pec deck:
+  100 12r 3s
+    * heavy
+
++ smith french:
+  85 12r 3s
+
+pullover:
+  # grip: wide
+  117 12r 3s
+
++ ez curl:
+  # grip: wide
+  117 12r 3s
+    * some english. felt rad
+
+shoulder horn:
+  15 20r 2s
+
++ rope tri down:
+  60 20r 2s
+
+neck lift:
+  20 20r 2s
+
++ ab down:
+  60 20r 2s
+    * remember to sit back

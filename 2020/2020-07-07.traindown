@@ -1,0 +1,39 @@
+@ 2020-07-07
+# unit: lbs
+
+drop jump:
+  21 5r 3s
+    # unit: inches
+
+deadlift:
+  # type: floating
+  * grip went l, r, l
+  * lost the previous session data. i think this is about right
+  365 10r 3s
+
+leg press:
+  380 12r 3s
+
++ leg press calf:
+  380 12r 3s
+
++ dorsi flexion:
+  25 12r 3s
+
+good girls:
+  90 12r 3s
+
++ smith up row:
+  70 12r 3s
+
+glute ham:
+  1 12r 3s
+
++ reverse hyper:
+  160 12r 3s
+
+neck harness:
+  25 12r 3s
+
++ supine pulldown:
+  135 12r 3s

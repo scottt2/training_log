@@ -1,0 +1,34 @@
+@ 2020-07-12
+# unit: lbs
+
+bench:
+  135 10r
+  185 10r
+  235 10r 4s
+
+dips:
+  bw 12r
+  35 12r 3s
+
++ reverse pec deck:
+  55 12r 3s
+
+pullovers:
+  # grip: narrow
+  117 12r 3s
+
++ rope french:
+  55 12r 3s
+
+hammer curl:
+  45 12r 3s
+
++ wrist roller:
+  * ten per direction per hand
+  40 20r 3s
+
+neck lift:
+  25 12r 3s
+
++ Roman chair:
+  bw 12r 3s
