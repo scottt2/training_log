@@ -1,0 +1,1810 @@
+
+
+@ 2021-05-22 
+
+# unit: lbs 
+# bw: 228 
+# day: DE lower 
+
+squat:
+  # box height: 15” 
+  # band top: 140 
+  # stance: wide, medium, narrow 
+  45 10r
+  155 3r
+  205 2r
+  255 2r
+  300 2r 10s
+
+deadlift:
+  405 5s
+
+box jump:
+  # type: seated 
+  # seat height: 12” 
+  # box height: 32” 
+  # stances: wide, medium, narrow 
+  bw 2r 9s
+
+wall ball twist:
+  # per side: 10 
+  14 20r 3s
+
+nail bend:
+  # unit: penny 
+  60
+
+@ 2021-05-20 
+
+# unit: lbs 
+# bw: 226 
+# day: ME upper 
+
+bench:
+  # pin height: 14.5” 
+  # grip: index smooth 
+  45 15r
+  135 10r
+  185 5r
+  225
+  255
+  275
+  295
+  315
+  325
+  335
+  345
+
+bench:
+  # grip: index rings 
+  255 6r 3s
+
+laying row:
+  # feet: 15” 
+  # bar: 31.5” 
+  bw 12r 3s
+
+ez bar curl:
+  # grip: wide 
+  85 10r 3s
+
+iron neck:
+  # rotation: medium 
+  30 40r
+  30 20r
+
+nail bend:
+  # unit: penny 
+  60
+
+ab mat:
+  bw 10r 4s
+
+@ 2021-05-18 
+
+# unit: lbs 
+# day: ME lower 
+# bw: 225 
+* shit sleep. everything sucks. 
+* need to fix deadlift 
+
+deadlift:
+  # height: 19.75” 
+  135 5r
+  225 5r
+  315 3r
+  405
+    * double overhand 
+  495
+  595 1f
+    * too forward 
+  595
+  625 1f
+    * I suck 
+
+rows:
+  # height: knee 
+  225 10r 3s
+
+back extension:
+  # type: dumbbell 
+  40 10r 3s
+
+reverse hyper:
+  320 10r 3s
+
+iron neck:
+  # type: diagnols 
+  # rotation: light 
+  35 10r 3s
+
+side bends:
+  53 10r 3s
+
+nail bend:
+  # unit: penny 
+  60
+
+@ 2021-05-15 
+
+# unit: lbs 
+# bw: 224 
+# day: DE lower 
+* just wrapped filming. tired. 
+
+squat:
+  # band top: 140 
+  # bow height: 15” 
+  45 5r
+  135 5r
+  225 3r
+  275 2r 12s
+
+box jump:
+  # type: seated 
+  # seat height: 13” 
+  # box height: 33” 
+  bw 2r 8s
+
+@ 2021-05-13 
+
+# unit: lbs 
+# bw: 226 
+# day: ME upper 
+
+bench:
+  # chain: 80 
+  # grip: index rings 
+  * widest grip I can do 
+  * max legal 
+  45 15r
+  135 5r
+  185 3r
+  205
+  225
+  245
+  265
+  275
+  285
+    # wir: 10 
+
+dips:
+  bw+62 12r 3s
+
+laying row:
+  # bar height: 31.5” 
+  # foot height: 15” 
+  # grips: various 
+  bw 12r 3s
+
+one arm barbell curl:
+  * arms tired from work 
+  45 6r 4s
+
+tri down:
+  110 20r 2s
+
+nail bend:
+  # unit: penny 
+  60
+
+@ 2021-05-10 
+
+# unit: lbs 
+# day: ME lower 
+# bw: 224 
+
+squat:
+  # box: 15” 
+  # stance: medium 
+  135 8r
+  225 5r
+  315 3r
+  405
+  450
+  480
+    * still going easy 
+    * felt good for no sleep and filming TV 
+
+back extension:
+  # weight: dumbbell 
+  30 10r 4s
+
+tank turret:
+  35 10r 4s
+
+iron neck:
+  # type: figure 8 
+  # rotation: light 
+  30 10r 4s
+
+@ 2021-05-08 
+
+# unit: lbs 
+# day: WTF 
+# bw: 227 
+* beat to fuck from filming 
+
+bench:
+  # chains: 80 
+  # grips: varied 
+  185 3r 8s
+
+towel tri down:
+  90 15r 3s
+
+preacher:
+  75 12r 3s
+
+nail bend:
+  # unit: penny 
+  60
+
+@ 2021-05-05 
+
+# unit: lbs 
+# bw: 224 
+# day: ME upper 
+
+log bench:
+  # height: 12” 
+  * measured to bottom of log 
+  * at chest for me 
+  * log weighs 86.4 
+  86 10r
+  176 6r
+  226 3r
+  266
+  306
+  326
+  346
+    # wir: 20 
+
+dips:
+  bw+50 15r 3s
+
+laying row:
+  # feet: 14” 
+  # height: 33” 
+  bw 12r 3s
+
+dumbbell curl:
+  50 10r 3s
+
+side bend:
+  53 10r 3s
+
+nail bend:
+  # unit: penny 
+  60
+
+@ 2021-05-03 
+
+# unit: lbs 
+# bw: 225 
+# day: ME lower 
+* taking it easy due to film schedule 
+
+yoke squat:
+  # height: 44” 
+  # stance: wide af 
+  143 5r
+  243 5r
+  343 2r
+  393
+  443
+  493
+    * stopped here. good enough for now 
+
+sandbag good morning:
+  100 15r 3s
+
+side toss:
+  # per side: 12 
+  14 24r 3s
+
+reverse hyper:
+  270 15r 3s
+
+nail bend:
+  # unit: penny 
+  60
+
+iron neck:
+  # type: diagonals 
+  # rotation: light 
+  # per side: 12 
+  30 24r 2s
+
+@ 2021-04-24 
+
+# unit: lbs 
+# bw: 224 
+# day: DE lower 
+* still coming out of injury 
+
+squat:
+  # box height: 15” 
+  # stances: wide, medium, narrow 
+  325 2r 9s
+
+dimmel deadlift:
+  225 10r 4s
+
+kettlebell snatch:
+  # type: tow hand 
+  * combined weight 
+  88 15r 3s
+
+iron neck:
+  # type: body turns with turned extension 
+  # rotation: low 
+  35 24r 2s
+
+nail bend:
+  # unit: penny 
+  60
+
+@ 2021-04-23 
+
+# unit: lbs 
+# bw: 224 
+# day: ME upper 
+
+floor press:
+  # band top: -55 
+  # band bottom: -95 
+  # type: future 
+  95 15r
+  185 5r
+  275 3r
+  295
+  315
+  335
+  355
+  375
+  395
+  405
+
+bench:
+  # grip: index rings 
+  135 8r
+  235 8r 4s
+
+dips:
+  * flush 
+  bw 20r 2s
+
+parallel lat pulldown:
+  180 10r 3s
+
+dumbbell curl:
+  50 8r 3s
+
+@ 2021-04-21 
+
+# unit: lbs 
+# bw: 225 
+# day: ME lower 
+
+deadlift:
+  # type: trap bar 
+  # height: 15” 
+  200 5r
+  245 3r
+  345 3r
+  445
+  545
+  595
+  615 1f
+    * if healthy it was there 
+    * right quad being crunchy 
+
+back extension:
+  # angle: 45 
+  24 12r
+  48 8r 3s
+    * used two kbs. felt rad 
+
+glute ham:
+  bw 12r 2s
+  bw 8r
+    * working back up after back sprain 
+
+side bend:
+  53 8r 3s
+
+iron neck:
+  # rotation: medium 
+  # type: diagonals 
+  * 15 each side 
+  * one back one front 
+  30 30r 2s
+
+nail bend:
+  # unit: penny 
+  60
+
+@ 2021-04-19 
+
+# unit: lbs 
+# bw: 225 
+# day: DE upper 
+
+bench:
+  # band bottom: 40 
+  # band top: 110 
+  # grips: pinky rings, index smooth, thumb knuckle smooth 
+  # rest: as needed 
+  185 3r 9s
+
+dumbbell incline bench:
+  # degrees: 45 
+  * use decline sit-up for stability 
+  * right shoulder not happy 
+  80 8r 3s
+
+Hughes rows:
+  50 12r 3s
+
+plate curl:
+  100 12r
+  100 10r 2s
+
+towel tri down:
+  90 15r 3s
+
+nail bend:
+  # unit: penny 
+  60
+
+@ 2021-04-18 
+
+# unit: lbs 
+# bw: 226 
+# day: DE lower 
+* still coming out of injury 
+
+squat:
+  # box height: 15” 
+  315 2r 8s
+
+dimmel deadlift:
+  225 10r 3s
+
+kettlebell snatch:
+  # type: tow hand 
+  * combined weight 
+  88 15r 3s
+
+iron neck:
+  # type: body turns with turned extension 
+  # rotation: low 
+  35 24r 2s
+
+nail bend:
+  # unit: penny 
+  60
+
+@ 2021-04-16 
+
+# unit: lbs 
+# bw: 225 
+
+incline bench:
+  # type: chain suspended 
+  # height: 42” 
+  # angle: 30 
+  135 5r 2s
+  185 3r
+  225
+    * light but shoulders not happy 
+    * stopped here 
+
+bench:
+  # pin height: 12” 
+  # grip: pinky rings 
+  * basically right at chest on pins 
+  135 5r
+  225 3r
+  275
+  295
+  315
+  335
+  345
+  355
+    * grind 
+
+bench:
+  # grip: index rings 
+  235 8r 3s
+
+rear delt deck:
+  55 15r 3s
+
+parallel lat pulldown:
+  165 12r 3s
+
++ iron neck:
+  # type: figure 8 
+  # rotation: medium 
+  35 12r 3s
+
+tank turret:
+  35 10r 3s
+
+nail bend:
+  # unit: penny 
+  60
+
+chin up:
+  bw 10r 3s
+
+@ 2021-04-14 
+
+# unit: lbs 
+# bw: 225 
+# day: ME lower 
+# back health: 85% 
+
+squat:
+  # type: chain suspended 
+  # bar height: 43” 
+  135 5r
+  225 5r
+  275 2r
+  315
+  355
+  385
+  405
+  425
+  445 1f
+    * Definitely could hit this if back was good 
+    * Maybe 40 lbs in reserve if healthy 
+
+Sandbag deadlift:
+  * Starting to test the waters... 
+  100 10r 3s
+
+reverse hyper:
+  # band: 25 
+  270 15r 3s
+
+side bends:
+  44 12r 3s
+
+nail bend:
+  # unit: penny 
+  60
+
+@ 2021-04-12 
+
+# unit: lbs 
+# bw: 225 
+# day: DE upper 
+* wtf I am shrinking 
+
+bench:
+  # band bottom: 40 
+  # band top: 110 
+  # grips: pinky rings, index smooth, thumb knuckle smooth 
+  175 3r 9s
+    * shoulders are kinda beat af 
+
+dumbbell incline bench:
+  # degrees: 45 
+  * felt great to flush blood 
+  * weak due to unfamiliarity 
+  40 12r
+  60 12r
+  70 10r 3s
+
+Hughes rows:
+  50 10r 3s
+
+dips:
+  bw 20r 3s
+    * push the blood 
+
+dumbbell curl:
+  45 10r 3s
+
+iron neck:
+  # type: diagonals 
+  # rotation: low 
+  30 24r 4s
+
+nail bend:
+  # unit: penny 
+  60
+
+@ 2021-04-07 
+
+# unit: lbs 
+# bw: 228 
+# day: ME lower 
+# back recovery: 80% 
+
+deadlift:
+  # height: 18” 
+  # grip: double overhand 
+  * just starting to stress test it 
+  405 3r 3s
+
+@ 2021-04-05 
+
+# unit: lbs 
+# bw: 227 
+# day: DE upper 
+* holy fucking shit I am recording training again! 
+* switching to MWFS schedule 
+
+bench:
+  # band bottom: 40 
+  # band top: 110 
+  # grips: pinky rings, thumb knuckle smooth, index smooth 
+  175 3r 9s
+
+dips:
+  bw+50 10r
+  bw+100 12r
+  bw+100 10r 2s
+
+pec deck:
+  70 12r
+  85 10r 3s
+
+one arm barbell curl:
+  50 6r 4s
+
+shoulder horn:
+  12 15r 3s
+
+band tri down:
+  30 30r 3s
+
+@ 2021-03-20 
+
+# unit: lbs 
+# bw: 228 
+# day: DE lower 
+# back sprain: getting better 
+
+reverse hyper:
+  90 20r 3s
+
+glute ham:
+  bw 10r 3s
+
+'45 degree back raise:
+  18 10r 3s
+
+wood chopper:
+  * per side 
+  35 10r 3s
+
+iron neck:
+  # type: no no 
+  # directions: n, s, e, w 
+  # rotation: heavy 
+  35 10r 4s
+
+nail bend:
+  # unit: penny 
+  60
+
+@ 2021-03-18 
+
+# unit: lbs 
+# bw: 228 
+# day: ME upper 
+
+floor foam press:
+  45 5r
+  135 5r
+  225 3r
+  275
+  295
+  305
+  325
+  335
+    * felt Meh. back sucks. 
+
+bench:
+  # grip: index on ring 
+  225 6r 4s
+
+kettlebell tri ext:
+  # type: rest pause 
+  44 10r
+  44 8r
+  44 6r
+
+pullup:
+  # grips: wide varied 
+  bw-110 10r 2s
+
+one arm barbell curl:
+  * per hand 
+  45 8r 2s
+
+@ 2021-03-16 
+
+# unit: lbs 
+# day: REP upper 
+# bw: 227 
+# back sprain: true 
+* back sprained as fuck 
+
+belt squat:
+  50 10r 2s
+
+bench:
+  # type: legs up 
+  # grips: index smooth, thumb knuckle smooth, pinky rings 
+  45 50r 3s
+
+dips:
+  bw+45 10r 3s
+
+dumbbell curl:
+  45 10r 3s
+
+towel tri down:
+  110 20r 3s
+
+iron neck:
+  # type: figure 8 
+  # rotation: light 
+  35 20r 3s
+
+@ 2021-03-10 
+
+# unit: lbs 
+# bw: 230 
+# back sprain: true 
+* good mornings followed by 90 mins trampoline park equals gnarly back spasm exiting the beanbag 
+* need to do a better job tracking back intensity @ 2021-03-09 
+# unit: lbs 
+# bw: 231 
+# day: ME lower 
+
+good morning:
+  # type: chain suspend 
+  # height: 40” 
+  # stance: medium 
+  135 5r 2s
+  225 3r 2s
+  275
+    * wtf this is harder than I thought 
+  305
+  325
+    * mother of god I am weak at this lift 
+
+power clean:
+  225 3r
+  255 2r 3s
+
+pendlay row:
+  225 8r 3s
+
+band hamstring curl:
+  * per foot 
+  25 15r 3s
+
+reverse hyper:
+  # band: 25lbs 
+  340 15r 3s
+
+tank turret:
+  * per side 
+  40 8r 3s
+
+iron neck:
+  # type: no no 
+  # rotation: medium 
+  # directions: n, s, e, w 
+  35 10r 4s
+
+nail bend:
+  # unit: penny 
+  60
+
+@ 2021-03-07 
+
+# unit: lbs 
+# bw: 231.6 
+# day: DE upper 
+
+bench:
+  # band bottom: 30lbs 
+  # band top: 120lbs 
+  # grips: index smooth, thumb knuckle, pinky on ring 
+  * fucked up band math. too light. 
+  45 5r
+  95 5r
+  115 3r 9s
+
+dips:
+  bw+90 6r 4s
+
+pec deck:
+  100 10r 2s
+  100 10r 2f
+
+rear delt deck:
+  77.5 10r 3s
+
+preacher:
+  70 12r 3s
+
+tri v down:
+  120 15r 3s
+
+nail bend:
+  # unit: penny 
+  60
+
+ab wheel:
+  bw 10r 3s
+
+@ 2021-03-06 
+
+# unit: lbs 
+# bw: 230 
+# day: DE lower 
+
+squat:
+  # box height: 15” 
+  # band top: 140lbs 
+  # band bottom: 40lbs 
+  # stances: wide, medium, narrow 
+  # rest: 45 seconds 
+  * fucked up band math. too light. 
+  205 2r 9s
+
+deadlift:
+  # rest: 60 seconds 
+  # grip: double overhand 
+  405 6s
+
+seated box jump:
+  # seat height: 13” 
+  # box heigh: 32” 
+  bw 2r 6s
+
+reverse hyper:
+  410 12r 3s
+
+side bends:
+  # per side: 10 
+  53 20r 3s
+
+nail bend:
+  # unit: penny 
+  60
+
+ab circuit:
+  # unit: minutes 
+  9 1s
+
+@ 2021-03-04 
+
+# unit: lbs 
+# bw: 230 
+# day: ME upper 
+
+bench:
+  # grip: thumb knuckles smooth 
+  # pin: 13” off bench 
+  * super hard height 
+  135 5r
+  185 3r
+  225 2r
+  265
+  285
+  295
+  305
+  315
+  325
+    * slowing 
+  335
+    * smooth but slow. stopping 
+
+bench:
+  # grip: index on rings 
+  * widest in awhile 
+  * felt decent. stay light for now 
+  225 6r 3s
+
+kettlebell tri ext:
+  * strict 
+  44 10r 3s
+
+pullup:
+  # grip: varied 
+  bw-120 10r 3s
+
+barbell curl:
+  # type: one arm 
+  45 8r 3s
+
+towel tri down:
+  110 15r
+  110 12r
+  110 8r
+
+iron neck:
+  # type: no no 
+  # rotation: high 
+  30 10r
+
+nail bend:
+  # unit: penny 
+  60
+
+@ 2021-03-02 
+
+# unit: lbs 
+# bw: 230 
+# day: ME lower 
+
+deadlift:
+  # height: 18” 
+  * Coming back from a rest week. 
+  * Very tight due not taking care. 
+  135 5r
+  225 5r
+  315 3r
+  405
+  455
+    * double overhand with a little slip at top 
+  500
+  550
+  590
+  620
+    * Felt decent. 
+    # wir: 25lbs 
+
+glute ham:
+  18 6r 4s
+
+reverse hyper:
+  # band: 25lbs 
+  410 12r 3s
+
+tank turret:
+  # per side: 10 
+  30 20r 3s
+
+iron neck:
+  # type: figure 8 
+  # rotation: light 
+  # order: forward front, forward back, reversed back, reversed front 
+  30 20r 4s
+
+nail bend:
+  # unit: penny 
+  60
+
+@ 2021-02-21 
+
+# unit: lbs 
+# bw: 230 
+# day: DE upper 
+* time to take an easy week 
+
+bench:
+  # chains: 120 
+  # grip: pinky rings, thumb tip smooth, index smooth 
+  195 3r 9s
+
+dips:
+  bw+70 10r 3s
+
+pec deck:
+  100 8r 4s
+
+pullup:
+  # grip: varied 
+  bw-110 8r 4s
+
+rope tri down:
+  110 15r 3s
+
+preacher:
+  70 12r 3s
+
+iron neck:
+  # type: figure 8 
+  # rotation: hard 
+  30 20r 2s
+
+@ 2021-02-20 
+
+# unit: lbs 
+# bw: 230 
+# day: DE lower 
+
+squat:
+  # box height: 15” 
+  # chains: 120lbs 
+  # stances: wide, med, narrow 
+  # rest: 45 seconds 
+  135 5r
+  205 5r
+  275 2r
+  305 2r 9s
+
+rack row:
+  # pin: 12 
+  225 6r 4s
+
+reverse hyper:
+  # band: 25lbs 
+  410 10r 3s
+
+nail bend:
+  # unit: penny 
+  60
+
+@ 2021-02-18 
+
+# unit: lbs 
+# bw: 230 
+# day: ME upper 
+
+floor press:
+  # grip: thumb smooth 
+  # chain: 120lbs 
+  45 5r
+  95 5r
+  135 3r
+  135
+  185
+  195
+    * nicked the rack. right side 
+  205
+  215
+  225
+    * hard 
+  230
+    * good. probably 10 more 
+
+bench:
+  # grip: middle on rings 
+  * continue stress test 
+  135 6r
+  185 6r
+  225 6r
+  255 6r
+    * solid and super easy. shoulder fine 
+
+kettlebell tri ext:
+  * little more strict 
+  53 6r 4s
+
+Hughes Row:
+  * did in bench. rad. 
+  53 8r 4s
+
+tri rope down:
+  110 10r 3s
+
++ barbell curl:
+  # type: one arm 
+  45 8r 3s
+
+iron neck:
+  # type: body turns 
+  # rotation: light 
+  # order: facing, away 
+  35 20r 2s
+
+nail bend:
+  # unit: penny 
+  60
+
+@ 2021-02-16 
+
+# unit: lbs 
+# bw: 230 
+# day: ME lower 
+* lighter day. I hurt 
+
+yoke:
+  # run: 25ft 
+  # runs per set: 2 
+  # belt: none 
+  143
+  343
+  543
+  643
+  703
+
+two hand kettlebell snatch:
+  * per hand 
+  35 12r
+  44 12r
+  53 12r 3s
+
+reverse hyper:
+  340 15r 3s
+
+side bends:
+  * per side 
+  53 10r 3s
+
+nail bend:
+  # unit: penny 
+  60
+
+@ 2021-02-14 
+
+# unit: lbs 
+# bw: 230 
+# day: DE upper 
+
+bench:
+  # chain: 120lbs 
+  # grip: pinky on rings, thumb knuckle on smooth, index on smooth 
+  45 5r
+  95 5r
+  145 3r
+  185 3r 9s
+
+dips:
+  # unit: kg 
+  32 8r 4s
+
+pec deck:
+  92.5 8r 4s
+
+pullup:
+  * various grips 
+  * baby the left side while it comes back online 
+  bw-120 8r 3s
+
+towel tri down:
+  120 8r 3s
+
+preacher:
+  70 10r 3s
+
+iron neck:
+  # type: figure 8 
+  # rotation: light 
+  30 20r 4s
+
+nail bend:
+  # unit: penny 
+  60
+
+@ 2021-02-13 
+
+# unit: lbs 
+# bw: 228 
+
+squat:
+  # box height: 15” 
+  # chain: 120lbs 
+  # stance: wide, comp, narrow 
+  285 2r 9s
+
+good girls:
+  60 20r 3s
+
++ bad girls:
+  70 20r 3s
+
+reverse hyper:
+  # band: 25lbs 
+  390
+
+nail bend:
+  60
+    # unit: penny @ 2021-02-11 
+    # unit: lbs 
+    # day: ME upper 
+
+bench:
+  # pin height: 17 inches above bench 
+  # grip: thumb knuckle smooth 
+  135 5r
+  185 3r
+  225 2r
+  275
+  295
+  315
+  325
+  335
+  345
+  355
+  365 1f
+    * misgrooved going down 
+
+bench:
+  # grip: middle on rings 
+  135 6r
+  185 6r
+  225 6r
+  245 6r
+    * stress test shoulder 
+    * smooth and easy. no need to push yet 
+
+kettlebell tri ext:
+  * little bit of the english 
+  53 6r 4s
+
+rear delt dec:
+  * down up down up grip 
+  77.5 8r 4s
+
+v tri down:
+  120 10r 3s
+
++ dumbbell curl:
+  50 10r 3s
+
+nail bend:
+  # unit: penny 
+  60
+
+@ 2021-02-09 
+
+# unit: lbs 
+# bw: 230 
+
+deadlift:
+  # block height: 4.5 inches 
+  * no belt 
+  * straps starting 455 
+  135 5r
+  225 3r
+  315
+  405
+  455
+  495
+  525
+  545
+
+sandbag lunge:
+  * per side 
+  100 8r 2s
+
+reverse hyper:
+  # band: 25lbs 
+  340 10r 3s
+
+tank turret:
+  * per side 
+  40 8r 3s
+
+nail bend:
+  # unit: penny 
+  60
+
+iron neck:
+  # type: no no 
+  # rotation: medium 
+  35 10r 3s
+
+ab circuit:
+  # unit: minutes 
+  10
+
+@ 2021-02-07 
+
+# unit: lbs 
+# day: DE upper 
+
+bench:
+  # chain: 120 
+  * narrow med wide triplets 
+  175 3r 9s
+
+dips:
+  # unit: kg 
+  32 8r 3s
+
+pec deck:
+  * same. go strict 
+  85 10r 3s
+
+Hughes row:
+  * per side 
+  50 10r 3s
+
+preacher:
+  70 10r
+
+@ 2021-02-06 
+
+# unit: lbs 
+# day: DE lower 
+
+squat:
+  * wide med narrow triplets 
+  # band: 200 
+  # box height: 15 
+  # rest: 45 
+  135
+  245 2r 9s
+
+deadlift:
+  # rest: 60 
+  405 6s
+
+reverse hyper:
+  # band: 25 
+  340 10r 3s
+
+leg press:
+  * varying stances for blood 
+  400 10r 3s
+
+iron neck:
+  # type: figure eight 
+  # rotation: high 
+  * half facing half away 
+  30 20r 3s
+
+nail bend:
+  # unit: penny 
+  60
+
+ab circuit:
+  # unit: minutes @ 2021-02-04 
+  # unit: lbs 
+  # day: ME upper 
+
+bench:
+  # chain: 120 
+  # grip: thumb knuckle 
+  45 5r 2s
+  95 5r
+  135 3r
+  185
+  225
+  245
+  255
+  265
+    * held for a sec. solid 
+
+kettlebell tri ext:
+  44 8r 4s
+
+rear delt deck:
+  70 10r 3s
+
+plate curl:
+  100 10r 3s
+
+nail bend:
+  # unit: penny 
+  60
+
+@ 2021-02-02 
+
+# unit: lbs 
+# day: ME lower 
+
+zercher:
+  # height: seventeen three quarter bottom of bar 
+  155 3s
+  245
+  315
+  365
+  385
+  405
+
+glute ham:
+  # unit: kg 
+  * wide narrow 
+  8 6r 4s
+
+reverse hyper:
+  410 10r 3s
+
+side bends:
+  * per side 
+  53 10r 3s
+
+nail bend:
+  # unit: penny 
+  60 2r
+
+iron neck:
+  # type: no no 
+  # rotation: medium 
+  * alternating hands toward stack 
+  30 20r 2s
+
+@ 2021-01-31 
+
+# unit: lbs 
+# day: DE upper 
+
+bench:
+  * wide medium narrow triplets 
+  # chain: 80 
+  # rest: 45 
+  205 3r 9s
+
+dips:
+  # unit: kg 
+  32 6r 4s
+
+pec deck:
+  85 10r 3s
+
+Hughes row:
+  50 8r 4s
+
+towel tri down:
+  110 8r 3s
+
++ hammer curl:
+  55 8r 3s
+
+iron neck:
+  # type: figure eights 
+  # rotation: light 
+  * half facing half away 
+  30 24r 2s
+
+nail:
+  # unit: penny 
+  60
+
+@ 2021-01-30 
+
+# unit: lbs 
+# day: DE lower 
+
+squat:
+  # band: 200 
+  # box height: 15 
+  # rest: 45 
+  235 2r 10s
+
+reverse hyper:
+  410 10r 3s
+
+ab pulldown:
+  100 10r 3s
+
+@ 2021-01-26 
+
+# unit: lbs 
+# day: ME lower 
+
+squat:
+  # box height: 15 
+  # band top: 40 
+  # band bottom: 80 
+  # type: future 
+  195 5r
+  285 3r
+  375 2r
+  465
+  515
+  555
+  585
+  605
+
+reverse hyper:
+  410 10r 3s
+
+nail bend:
+  # unit: penny 
+  60
+
+@ 2021-01-25 
+
+# unit: lbs 
+# day: Recovery 
+# bw: 230 
+
+ab mat:
+  bw 10r 3s
+
+push up:
+  bw 20r 3s
+
+lunge:
+  * per side 
+  bw 10r 3s
+
+@ 2021-01-24 
+
+# unit: lbs 
+# day: DE upper 
+
+bench:
+  # chain: 80 
+  * grip wide med narrow triplets 
+  200 3r 9s
+
+jm press:
+  # chain: 80 
+  115 6r 4s
+
+Hughes row:
+  * per side 
+  50 8r 4s
+
+dumbbell curl:
+  * each hand 
+  50 10r
+  45 10r 2s
+
+tri v down:
+  130 10r 3s
+
+roaring thunder:
+  * each hand 
+  135 3s
+
+iron neck:
+  # rotation: medium 
+  # type: body rotations 
+  30 20r 2s
+
+nail bend:
+  # unit: penny 
+  60
+
+@ 2021-01-23 
+
+# unit: lbs 
+# day: ME lower 
+
+squat:
+  # band: 200 
+  # rest: 45 seconds 
+  * stance wide and regular alterating 
+  225 2r 10s
+
+deadlift:
+  # grip: double overhand 
+  # percent: 60 
+  405 5s
+
+reverse hyper:
+  410 8r 4s
+
+tank turret:
+  35 8r 3s
+
+nail bend:
+  # unit: penny 
+  60
+
+@ 2021-01-21 
+
+# unit: lbs 
+# day: ME upper 
+
+bench:
+  # grip: pinky on power 
+  # type: lower to pin 
+  # height: sixteen inch above bench bottom of bar 
+  135 5r
+  185 3r
+  225 2r
+  275
+  295
+  315
+  325
+  335
+  345
+  350
+    * solid but stopped here out of shoulder caution 
+
+dips:
+  # unit: kg 
+  28 6r 4s
+
+rear delt deck:
+  * down up up down 
+  * sore af from deads 
+  63 10r 4s
+
+towel tri down:
+  80 10r 4s
+
+plate curl:
+  100 10r 4s
+
++ iron neck:
+  # type: figure eights 
+  # rotation: light 
+  * facing away facing away 
+  30 10r 4s
+
+nail bend:
+  # unit: penny 
+  60
+
+side bend:
+  44 10r 3s
+    * per side @ 2021-01-19 
+    # unit: lbs 
+    # day: ME lower 
+    # bw: 230 
+
+deadlift:
+  # height: fifteen inch top of bar 
+  * height change due to foam compressing 
+  * very difficult height for me 
+  135 5r
+  335
+  425
+  475
+  515
+  555
+  585
+  605
+
+power clean:
+  * awful form and not flexible 
+  * stopped early due to forearm owie 
+  * power felt alright 
+  225 3r
+  255
+
+glute ham:
+  18 6r 4s
+
+reverse hyper:
+  410 10r 3s
+
+iron neck:
+  # rotation: medium 
+  # type: no no 
+  30 10r 3s
+
++ ab wheel:
+  # type: fast 
+  bw 15r 3s
+
+nail bend:
+  # unit: penny 
+  60
+
+@ 2021-01-17 
+
+# unit: lbs 
+# day: DE upper 
+
+bench:
+  # chain: 40 
+  # band: 50 
+  * wide med narrow 
+  190 3r 9s
+
+KB extension:
+  44 8r 4s
+
+Hughes row:
+  45 10r 3s
+
+Wrist roller:
+  * ten per hand per direction 
+  53 40r 3s
+
+V tri down:
+  110 30r
+  110 20r
+  110 10r
+
+Tank turret:
+  * ten each way 
+  30 20r 3s
+
+@ 2021-01-16 
+
+# unit: lbs 
+# day: DE lower 
+
+squat:
+  # chains: 40 
+  # rest: 45 
+  * wide and medium stance alternating 
+  275 2r 10s
+
+yoke:
+  # distance: 100 
+  # legs: 5 
+  434 2s
+
+reverse hyper:
+  390 10r 3s
+
++ side bend:
+  50 10r 3s
+
+nail bend:
+  60
+    # unit: penny 
+
+iron neck:
+  35 10r 2s
+    # type: no no 
+    # rotation: high @ 2021-01-15 
+    # unit: lbs 
+    # day: ME upper 
+    # bw: 230 
+    * I suck at keeping logs 
+
+bench:
+  # grip: index at smooth 
+  # distance: full 
+  135 5r 2s
+  185 5r
+  225
+  245
+  265
+  275
+  285
+  295
+  305
+  310
+
+dips:
+  bw+53 6r 4s
+
+rear delt deck:
+  * two high two low 
+  * pull down 
+  63 8r 4s
+
+towel tri down:
+  70 10r 3s
+
++ dumbbell curl:
+  45 10r 3s
+
+ab wheel:
+  # type: Y 
+  bw 20r 2s
+
++ iron neck:
+  # type: figure eight 
+  # rotation: light 
+  * one facing one away 
+  35 20r 2s
+
+nail bend:
+  # unit: penny 
+  60
+
+@ 2021-01-02 
+
+# unit: lbs 
+
+squat:
+  # type: speed 
+  # box: 14 
+  # band: rogue red and blue 
+  # stance cycle: out at in of shoulder two cycles 
+  * lighter base weight to get practice on wider stance 
+  225 2r 6s
+
+@ 2020-12-05 
+
+# unit: lbs 
+* missed a day due to work 
+
+squat:
+  # type: speed 
+  # chains: 40 
+  45 5r
+  85 5r
+    * add chains for a set 
+  135 5r
+  225 3r 2s
+  255 2r 6s
+    * chains on 
+    # rest: 90
